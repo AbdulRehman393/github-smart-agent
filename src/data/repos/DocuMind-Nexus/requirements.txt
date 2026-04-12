@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-core
+langchain_community
+langchain_chroma
+docx2txt
+pypdf
+python-multipart
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+sentence-transformers
+google-search-results
