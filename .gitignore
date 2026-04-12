@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Vector store files
+*.faiss
+*.pkl
+
+# Cloned repos
+cloned_repos/
+
+# Double extension fixes
+*.txt.txt
+*.md.md
