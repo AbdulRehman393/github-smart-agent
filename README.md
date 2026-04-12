@@ -46,17 +46,11 @@ Instead of reading files one-by-one, you can ask architecture, bug, and optimiza
 
 <div align="center">
 
-### Dashboard / Home
-![Dashboard](images/dashboard.png)
+### Project Demo 1
+![Project Demo 1](./images/image_01.png)
 
-### Repository Ingestion
-![Repository Ingestion](images/repo_ingestion.png)
-
-### Codebase Chat Interface
-![Codebase Chat](images/codebase_chat.png)
-
-### Bug Detection Output
-![Bug Detection](images/bug_detection.png)
+### Project Demo 2
+![Project Demo 2](./images/image_02.png)
 
 </div>
 
@@ -177,6 +171,8 @@ github-smart-agent/
 │   ├── services/
 │   └── ui/
 ├── images/
+│   ├── image_01.png
+│   └── image_02.png
 ```
 
 ---
