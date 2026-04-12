@@ -42,6 +42,26 @@ Instead of reading files one-by-one, you can ask architecture, bug, and optimiza
 
 ---
 
+## 🎬 Project Demo
+
+<div align="center">
+
+### Dashboard / Home
+![Dashboard](images/dashboard.png)
+
+### Repository Ingestion
+![Repository Ingestion](images/repo_ingestion.png)
+
+### Codebase Chat Interface
+![Codebase Chat](images/codebase_chat.png)
+
+### Bug Detection Output
+![Bug Detection](images/bug_detection.png)
+
+</div>
+
+---
+
 ## 🧱 Architecture (High-Level)
 
 ```text
@@ -156,6 +176,7 @@ github-smart-agent/
 │   ├── rag/
 │   ├── services/
 │   └── ui/
+├── images/
 ```
 
 ---
